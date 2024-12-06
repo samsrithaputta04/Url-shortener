@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Url-shortener/static/css/main.5d26f4b3.css",
+    "main.js": "/Url-shortener/static/js/main.63edf5fe.js",
+    "index.html": "/Url-shortener/index.html",
+    "main.5d26f4b3.css.map": "/Url-shortener/static/css/main.5d26f4b3.css.map",
+    "main.63edf5fe.js.map": "/Url-shortener/static/js/main.63edf5fe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d26f4b3.css",
+    "static/js/main.63edf5fe.js"
+  ]
+}
